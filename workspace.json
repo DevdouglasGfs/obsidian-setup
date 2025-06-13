@@ -1,0 +1,383 @@
+{
+  "main": {
+    "id": "05182c6ec4be27c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b2706f8453c120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b87370690f2c8a2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studies/English/Prepositions.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Prepositions"
+            }
+          },
+          {
+            "id": "0c6f80bb730aecf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Programing/Terms/CRDT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRDT"
+            }
+          },
+          {
+            "id": "56a76b2b08841e34",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Programing/Patterns & Related/Design Patterns - Catálogo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Design Patterns - Catálogo"
+            }
+          },
+          {
+            "id": "cf67df4b38d9e5a4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tools for usage.canvas",
+                "viewState": {
+                  "x": 108.5,
+                  "y": -45,
+                  "zoom": -1.1096555387968183
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Tools for usage"
+            }
+          },
+          {
+            "id": "342ec5383e2ce8be",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "63165526306c8cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Programing/offline-first/Tools for usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools for usage"
+            }
+          },
+          {
+            "id": "e7f75d5ee7341b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily notes/12-06-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-06-2025"
+            }
+          },
+          {
+            "id": "eb1fc719fe4027d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Programing/offline-first/Tools for usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tools for usage"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a19021d8c144548f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8048c8b5b8c7fa8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "628952c05999ae3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c6f75a51da479e70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "efba5a303509b611",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "645ec73ef332d04f",
+    "type": "split",
+    "children": [
+      {
+        "id": "41c59e19246e2a18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf1fbb4423f4608",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Development/Programing/Security/Verify phone numbers on the web.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Verify phone numbers on the web"
+            }
+          },
+          {
+            "id": "fad03625f96f4caf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Development/Programing/Data Structure/Data Structures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Data Structures"
+            }
+          },
+          {
+            "id": "c2a8bd155e911bfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a164c05a4ff3f6f",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "28500d923a595650",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "d8ab7b482261ad6b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "432d28f4c9a18af6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily notes/03-06-2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03-06-2025"
+            }
+          },
+          {
+            "id": "d5fa5e0abc98fe3a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "63165526306c8cb2",
+  "lastOpenFiles": [
+    "Development/Programing/offline-first/Hocuspocus/Hocuspocus.md",
+    "Development/Programing/offline-first/Dxos/Dxos.md",
+    "Development/Programing/offline-first/Y.js/Y.js.md",
+    "Development/Programing/offline-first/Tools for usage.md",
+    "Tools for usage.canvas",
+    "Daily notes/12-06-2025.md",
+    "Development/Programing/offline-first/Y.js",
+    "Development/Programing/offline-first/Hocuspocus",
+    "Development/Programing/offline-first/Collabs/Collabs.md",
+    "Development/Programing/Terms/Diffie–Hellman.md",
+    "Development/Programing/offline-first/Dexie + Dexie Cloud/Dexie + Dexie Cloud.md",
+    "Development/Programing/offline-first/Dxos",
+    "Development/Programing/offline-first/Dxios",
+    "Development/Programing/offline-first/Dexie + Dexie Cloud",
+    "Development/Programing/Terms/Summary - Terms.md",
+    "Development/Programing/Terms/Dirty Read.md",
+    "Development/Programing/Terms/CRDT.md",
+    "Development/Programing/Terms/Backendless.md",
+    "Development/Programing/Terms/CCS/CCS.md",
+    "Development/Programing/Terms/CCS/CCS Concepts.md",
+    "Development/Programing/offline-first/Jazz/Jazz - Related issues.md",
+    "Development/Programing/offline-first/Automerge/Automerge.md",
+    "Development/Programing/offline-first/Collabs",
+    "Development/Programing/offline-first/AWS Amplify/AWS Amplify.md",
+    "Development/Programing/offline-first/AWS Amplify",
+    "Development/Programing/offline-first/Jazz/Jazz.md",
+    "Studies/Plano de estudos.md",
+    "Development/Programing/offline-first/Automerge",
+    "Development/Programing/offline-first/Jazz",
+    "Development/Programing/Apps/Build for production.md",
+    "Development/Programing/offline-first",
+    "Daily notes/11-06-2025.md",
+    "Daily notes/Daily Summary.md",
+    "Daily notes/10-06-2025.md",
+    "Studies/Cronograma - Plano de estudos.md",
+    "Studies/English/Prepositions.md",
+    "Development/Assets/Pasted image 20250529095447.png",
+    "Studies/Português/Mapa mental.canvas",
+    "Studies/Matemática/Math.canvas",
+    "Development/Assets/Pasted image 20250527173219.png",
+    "Development/Assets/Pasted image 20250527184106.png",
+    "Development/Assets/Pasted image 20250527100522.png",
+    "Development/Assets/Pasted image 20250527150917.png",
+    "Development/Assets/Pasted image 20250527150847.png",
+    "Development/Assets/Pasted image 20250527101058.png",
+    "Development/Assets/Pasted image 20250527100600.png",
+    "Development/Assets/Pasted image 20250525162506.png",
+    "Development/Assets/Pasted image 20250527093533.png",
+    "Development/Programing/APLICAÇÃO PARA CONTROLE FINANCEIRO.canvas",
+    "Untitled 1.canvas",
+    "Development/Untitled 1.canvas",
+    "Development/Untitled 2.canvas"
+  ]
+}

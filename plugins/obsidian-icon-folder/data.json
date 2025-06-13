@@ -1,0 +1,226 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiWifiOff",
+      "RiAppStoreFill",
+      "SiAndroid",
+      "FasCalendar",
+      "LiNetwork"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Development/Programing/JS": {
+    "iconName": "FabJs",
+    "iconColor": "#ffe01a"
+  },
+  "Development/Programing/jQuery": {
+    "iconName": "FabJs",
+    "iconColor": "#fbff1a"
+  },
+  "Development/Programing/Git": {
+    "iconName": "FabGit",
+    "iconColor": "#ffffff"
+  },
+  "Development/Programing/API": {
+    "iconName": "FasServer",
+    "iconColor": "#94c2ff"
+  },
+  "Development/Programing/Arquitecture": {
+    "iconName": "FasBrain",
+    "iconColor": "#bca3ff"
+  },
+  "Development/Programing/Authentication": {
+    "iconName": "FasShield",
+    "iconColor": "#4d79ff"
+  },
+  "Development/Programing/Data Structure": {
+    "iconName": "FasBrain",
+    "iconColor": "#29ffd4"
+  },
+  "Development/Programing/Design Principles": {
+    "iconName": "FasPenClip",
+    "iconColor": "#eaffbd"
+  },
+  "Development/Programing/Performance": {
+    "iconName": "FasJetFighterUp",
+    "iconColor": "#1fbcff"
+  },
+  "Development/Programing/Nomenclature": {
+    "iconName": "FasMessage",
+    "iconColor": "#80d090"
+  },
+  "Development/Programing/React": {
+    "iconName": "FabReact",
+    "iconColor": "#27d1dd"
+  },
+  "Development/Programing/Security": {
+    "iconName": "FasShield",
+    "iconColor": "#75f6ff"
+  },
+  "Development/Programing/UI Critic": {
+    "iconName": "FasPenRuler",
+    "iconColor": "#adffe4"
+  },
+  "Development/Programing/Vue": {
+    "iconName": "FabVuejs",
+    "iconColor": "#38ff84"
+  },
+  "Development/Programing/Vue router": {
+    "iconName": "FabVuejs",
+    "iconColor": "#48ff24"
+  },
+  "Studies/Matemática/Math.canvas": {
+    "iconName": "FasClipboardList",
+    "iconColor": "#6166ff"
+  },
+  "Studies": {
+    "iconName": "FasBook",
+    "iconColor": "#3dabff"
+  },
+  "Studies/Matemática": {
+    "iconName": "FasCalculator",
+    "iconColor": "#ff3333"
+  },
+  "Studies/Português": {
+    "iconName": "LiLanguages",
+    "iconColor": "#8abdff"
+  },
+  "ideas": {
+    "iconName": "FasLightbulb",
+    "iconColor": "#ffe747"
+  },
+  "Development/Programing": {
+    "iconName": "LiCode",
+    "iconColor": "#4de1ff"
+  },
+  "Development/issues": {
+    "iconName": "FasCircleInfo",
+    "iconColor": "#ff9999"
+  },
+  "Development/Assets": "FasImage",
+  "Development/Algorithms": {
+    "iconName": "LiSearchCode",
+    "iconColor": "#42a4ff"
+  },
+  "Development": {
+    "iconName": "LiCircleArrowOutUpRight",
+    "iconColor": "#ff1414"
+  },
+  "Design": {
+    "iconName": "FasPenRuler",
+    "iconColor": "#edccff"
+  },
+  "Development/Programing/NodeJs": {
+    "iconName": "FabNode",
+    "iconColor": "#fbff1f"
+  },
+  "Development/Programing/TypeScript": {
+    "iconName": "SiTypescript",
+    "iconColor": "#33a7ff"
+  },
+  "Development/Programing/Nuxt": {
+    "iconName": "SiNuxtdotjs",
+    "iconColor": "#40ff3d"
+  },
+  "Development/Programing/Nextjs": {
+    "iconName": "RiNextjsFill",
+    "iconColor": "#e6e6e6"
+  },
+  "Development/Programing/Flutter": {
+    "iconName": "SiFlutter",
+    "iconColor": "#f2b1b4"
+  },
+  "Development/Programing/Nuxt/Fetch": {
+    "iconName": "LiDownload",
+    "iconColor": "#85adff"
+  },
+  "Development/Programing/Vite": {
+    "iconName": "SiVite",
+    "iconColor": "#2eff7e"
+  },
+  "Development/Programing/Accessibility": {
+    "iconName": "FabAccessibleIcon",
+    "iconColor": "#70ff9b"
+  },
+  "Development/Programing/Courses": {
+    "iconName": "FasBook",
+    "iconColor": "#47f3ff"
+  },
+  "Studies/English": {
+    "iconName": "LiLanguages",
+    "iconColor": "#52ffae"
+  },
+  "Development/Programing/Patterns & Related": {
+    "iconName": "FasFire",
+    "iconColor": "#ff5c5c"
+  },
+  "Development/Programing/Patterns & Related/Application": {
+    "iconName": "SiInstructure",
+    "iconColor": "#1af0ff"
+  },
+  "Development/Programing/Patterns & Related/Behavioral": {
+    "iconName": "FasHandshake",
+    "iconColor": "#57ff81"
+  },
+  "Development/Programing/Patterns & Related/Creational": {
+    "iconName": "FasToolbox",
+    "iconColor": "#8fffa2"
+  },
+  "Development/Programing/Patterns & Related/Transactional": {
+    "iconName": "RiExchangeFill",
+    "iconColor": "#38ff4f"
+  },
+  "Development/Programing/Patterns & Related/Structural": {
+    "iconName": "SiInstructure",
+    "iconColor": "#4dffa3"
+  },
+  "Development/Programing/Patterns & Related/Architectures": {
+    "iconName": "SiBuildkite",
+    "iconColor": "#1fd2ff"
+  },
+  "Development/Programing/Terms": {
+    "iconName": "LiLanguages",
+    "iconColor": "#70e7ff"
+  },
+  "Development/Programing/Patterns & Related/Protocols": {
+    "iconName": "LiNetwork",
+    "iconColor": "#61ffed"
+  },
+  "Daily notes": {
+    "iconName": "FasCalendar",
+    "iconColor": "#b8ffea"
+  },
+  "Development/Programing/Apps": {
+    "iconName": "RiAppStoreFill",
+    "iconColor": "#2eff51"
+  },
+  "Development/Programing/offline-first": {
+    "iconName": "LiWifiOff",
+    "iconColor": "#be8aff"
+  }
+}
